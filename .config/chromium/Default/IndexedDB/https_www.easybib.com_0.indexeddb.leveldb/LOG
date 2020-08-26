@@ -1,8 +1,0 @@
-2020/08/05-14:53:29.587 31829 Reusing MANIFEST /home/dylan/.config/chromium/Default/IndexedDB/https_www.easybib.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/08/05-14:53:29.587 31829 Recovering log #4
-2020/08/05-14:53:29.587 31829 Reusing old log /home/dylan/.config/chromium/Default/IndexedDB/https_www.easybib.com_0.indexeddb.leveldb/000004.log 
-2020/08/05-21:12:41.565 2e9c5 Level-0 table #8: started
-2020/08/05-21:12:41.565 2e9c5 Level-0 table #8: 0 bytes OK
-2020/08/05-21:12:41.572 2e9c5 Delete type=0 #4
-2020/08/05-21:12:41.572 2e9c5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/08/05-21:12:41.572 2e9c5 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

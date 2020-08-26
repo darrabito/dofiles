@@ -1,8 +1,0 @@
-2020/08/07-23:44:36.602 1b51 Reusing MANIFEST /home/dylan/.config/chromium/Default/IndexedDB/https_www.subaruworldofnewton.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/08/07-23:44:36.602 1b51 Recovering log #7
-2020/08/07-23:44:36.602 1b51 Reusing old log /home/dylan/.config/chromium/Default/IndexedDB/https_www.subaruworldofnewton.com_0.indexeddb.leveldb/000007.log 
-2020/08/07-23:45:38.842 1947 Level-0 table #11: started
-2020/08/07-23:45:38.842 1947 Level-0 table #11: 0 bytes OK
-2020/08/07-23:45:38.859 1947 Delete type=0 #7
-2020/08/07-23:45:38.859 1947 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/08/07-23:45:38.859 1947 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

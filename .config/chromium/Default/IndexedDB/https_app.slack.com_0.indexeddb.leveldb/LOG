@@ -1,5 +1,0 @@
-2020/08/24-10:40:31.500 508a Reusing MANIFEST /home/dylan/.config/chromium/Default/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/08/24-11:09:52.792 5132 Level-0 table #5: started
-2020/08/24-11:09:52.841 5132 Level-0 table #5: 1294761 bytes OK
-2020/08/24-11:09:52.877 5132 Delete type=0 #3
-2020/08/24-11:09:52.878 5132 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,5 +1,0 @@
-2020/08/07-23:26:46.414 15b5 Reusing MANIFEST /home/dylan/.config/chromium/Default/IndexedDB/https_remotedesktop.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/08/07-23:31:28.830 1947 Level-0 table #5: started
-2020/08/07-23:31:28.879 1947 Level-0 table #5: 2172 bytes OK
-2020/08/07-23:31:28.917 1947 Delete type=0 #3
-2020/08/07-23:31:28.917 1947 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

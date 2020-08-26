@@ -1,7 +1,0 @@
-2020/08/03-17:19:53.604 7b3 Reusing MANIFEST /home/dylan/.config/chromium/Default/IndexedDB/https_classroom.synonym.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/08/03-17:19:53.604 7b3 Recovering log #3
-2020/08/03-17:19:53.605 7b3 Reusing old log /home/dylan/.config/chromium/Default/IndexedDB/https_classroom.synonym.com_0.indexeddb.leveldb/000003.log 
-2020/08/05-13:17:46.673 d8f Level-0 table #5: started
-2020/08/05-13:17:46.681 d8f Level-0 table #5: 295341 bytes OK
-2020/08/05-13:17:46.690 d8f Delete type=0 #3
-2020/08/05-13:17:46.691 d8f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
