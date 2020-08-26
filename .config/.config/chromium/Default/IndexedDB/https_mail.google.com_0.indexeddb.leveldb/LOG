@@ -1,0 +1,15 @@
+2020/07/23-01:27:56.404 37af Reusing MANIFEST /home/dylan/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/23-01:27:56.404 37af Recovering log #4
+2020/07/23-01:27:56.404 37af Reusing old log /home/dylan/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2020/07/23-01:28:42.797 359d Level-0 table #8: started
+2020/07/23-01:28:42.808 359d Level-0 table #8: 1007 bytes OK
+2020/07/23-01:28:42.816 359d Delete type=0 #4
+2020/07/23-01:28:42.816 359d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/23-01:28:42.816 359d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0e\x00\x00\x05' @ 144 : 1
+2020/07/23-01:28:42.816 359d Compacting 1@1 + 1@2 files
+2020/07/23-01:28:42.823 359d Generated table #9@1: 71 keys, 1532 bytes
+2020/07/23-01:28:42.823 359d Compacted 1@1 + 1@2 files => 1532 bytes
+2020/07/23-01:28:42.831 359d compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/23-01:28:42.831 359d Delete type=2 #8
+2020/07/23-01:28:42.831 359d Delete type=2 #5
+2020/07/23-01:28:42.831 359d Manual compaction at level-1 from '\x00\x0e\x00\x00\x05' @ 144 : 1 .. (end); will stop at (end)

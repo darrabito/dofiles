@@ -1,0 +1,263 @@
+@import "~less/variables.less";
+@import "../../less/cleanslate.less";
+#__wikibuy__ .__wikibuy {
+  &.__onTop {
+    position: relative;
+    z-index: 2147483647;
+  }
+  @import "../../less/global.less";
+  @import "../../less/icon-font.less";
+  .consent-notification-wrapper {
+    &.full {
+      display: flex;
+      top: 0 !important;
+      bottom: 0 !important;
+      left: 0 !important;
+      right: 0 !important;
+      background: rgba(0, 0, 0, 0.23);
+      align-items: center;
+      transition: background 0.6s ease;
+      justify-content: center;
+      height: auto !important;
+    }
+    &.disabled {
+      display: none;
+      pointer-events: none;
+    }
+    .consent-notification {
+      width: 430px;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      &.disabled {
+        pointer-events: none;
+      }
+      &.center-middle {
+        max-height: 100vh;
+        width: 100%;
+        display: flex;
+        top: 0 !important;
+        bottom: 0 !important;
+        left: 0 !important;
+        right: 0 !important;
+        background: rgba(0, 0, 0, 0.23);
+        align-items: center;
+        transition: background 0.6s ease;
+        justify-content: center;
+        height: auto !important;
+        .consent-notification-content {
+          width: 925px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          section {
+            max-height: 725px;
+            width: 84%;
+            margin-bottom: 20px;
+            h2 {
+              font-size: 34px;
+              text-align: center;
+              margin-bottom: 30px;
+              color: @midnight;
+            }
+            .subheading {
+              font-size: 20px;
+              &.post-click {
+                font-size: 18px;
+              }
+              font-weight: bold;
+              text-align: center;
+              color: @midnight;
+              margin-bottom: 25px;
+            }
+            .bullet-list {
+              font-size: 17px;
+              padding-left: 20px;
+              line-height: 130%;
+              color: @midnight;
+              .li-text {
+                margin-bottom: 8px;
+              }
+            }
+            .opt-in-description, .final-prompt {
+              .defaultRegular;
+              font-size: 17px;
+              line-height: 130%;
+              color: @midnight;
+            }
+            .final-prompt {
+              margin-top: 30px;
+              margin-bottom: 10px;
+              font-weight: bold;
+              font-size: 18px;
+              text-align: center;
+            }
+            .explanation {
+              margin-top: 10px;
+              text-align: center;
+              font-size: 15px;
+            }
+          }
+        }
+      }
+      .consent-notification-content {
+        width: 385px;
+        margin-left: 20px;
+        margin-right: 20px;
+        background: #fff;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+        button {
+          height: 60px;
+          font-size: 17px;
+        }
+        header {
+          position: relative;
+          height: 45px;
+          width: 100%;
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          padding: 5px 7px 0;
+          .w-icon-logo {
+            height: 40px;
+            width: 60px;
+            background-position: center;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-image: none;
+            svg {
+              fill: @palmetto;
+              width: 26px;
+            }
+          }
+          .group {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+          }
+          .w-icon-logo {
+            height: 40px;
+            width: 60px;
+            background-position: center;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            svg {
+              fill: @palmetto;
+              width: 36px;
+            }
+          }
+          .close {
+            height: 40px;
+            width: 40px;
+            color: @gray;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            opacity: 1;
+            text-shadow: none;
+            float: none;
+          }
+          .icon-carat {
+            transform: rotate(90deg);
+            width: 40px;
+            height: 40px;
+          }
+        }
+        & > section {
+          position: relative;
+          padding: 8px 16px 16px;
+          overflow: auto;
+          max-height: 560px;
+          h2 {
+            font-weight: bold;
+            font-size: 20px;
+            line-height: 30px;
+            margin-bottom: 10px;
+            &.midnight {
+              color: @midnight;
+            }
+            .icon-circle-check {
+              display: inline-block;
+              vertical-align: baseline;
+            }
+            .green {
+              color: @palmetto;
+            }
+          }
+          .bullet-list {
+            .defaultRegular;
+            list-style: disc;
+            .li-text {
+              display: list-item;
+            }
+          }
+          h4 {
+            margin-bottom: 16px;
+            font-size: 14px;
+            color: @midnight;
+            line-height: 20px;
+            &.maybe-later {
+              padding-top: 13px;
+              text-align: center;
+              margin-bottom: 4px;
+              font-size: 16px;
+              width: 103px;
+              margin: 0 auto;
+            }
+          }
+          .options-wrapper {
+            display: flex;
+            justify-content: center;
+            margin-top: 10px;
+            margin-bottom: 20px;
+          }
+          .button-wrapper {
+            display: flex;
+            justify-content: center;
+            &.pre-click, &.cancel {
+              width: 50%;
+              button {
+                border: 1px solid @midnight;
+              }
+            }
+            &.pre-click {
+              button {
+                background-color: white;
+                color: @midnight;
+              }
+            }
+            button {
+              font-weight: bold;
+              width: 80%;
+              font-size: 14px;
+              line-height: 21px;
+              .icon-circle-check {
+                vertical-align: middle;
+                margin-right: 3px;
+                display: inline-block;
+                margin-top: 3px;
+              }
+            }
+          }
+        }
+        .explanation {
+          .defaultRegular;
+          a, span {
+            color: @palmetto;
+            text-decoration: underline;
+            text-decoration-color: @palmetto;
+            cursor: pointer;
+          }
+          font-size: 14px;
+          line-height: 20px;
+          color: @midnight;
+        }
+      }
+    }
+  }
+}

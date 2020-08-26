@@ -1,0 +1,6 @@
+2020/08/25-14:11:10.500 736 Reusing MANIFEST /home/dylan/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/08/25-14:11:10.500 736 Recovering log #276
+2020/08/25-14:11:10.503 736 Reusing old log /home/dylan/.config/chromium/Default/Sync Data/LevelDB/000276.log 
+2020/08/25-14:11:19.695 871 Level-0 table #280: started
+2020/08/25-14:11:19.765 871 Level-0 table #280: 124259 bytes OK
+2020/08/25-14:11:19.802 871 Delete type=0 #276

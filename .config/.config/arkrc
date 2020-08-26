@@ -1,0 +1,25 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Downloads/
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/Downloads/
+listViewIconSize=0
+
+[MainWindow]
+Height 1013=326
+Height 1824=1761
+State=AAAA/wAAAAD9AAAAAAAAA30AAAaBAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+Width 1520=749
+Width 2736=893
+splitterSizes=595,297
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/tsetup.2.1.13.tar.xz
+File2[$e]=$HOME/Downloads/mojaveHD.tar.gz
+File3[$e]=$HOME/Downloads/catalina.tar.gz
+Name1[$e]=tsetup.2.1.13.tar.xz
+Name2[$e]=mojaveHD.tar.gz
+Name3[$e]=catalina.tar.gz

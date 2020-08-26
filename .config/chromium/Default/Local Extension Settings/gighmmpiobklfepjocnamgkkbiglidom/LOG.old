@@ -1,0 +1,29 @@
+2020/08/24-10:08:26.885 3a69 Reusing MANIFEST /home/dylan/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/08/24-10:08:26.885 3a69 Recovering log #1108
+2020/08/24-10:08:26.886 3a69 Reusing old log /home/dylan/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/001108.log 
+2020/08/24-10:09:30.331 3e09 Level-0 table #1112: started
+2020/08/24-10:09:30.389 3e09 Level-0 table #1112: 5338633 bytes OK
+2020/08/24-10:09:30.424 3e09 Delete type=0 #1108
+2020/08/24-10:09:30.592 3e09 Level-0 table #1114: started
+2020/08/24-10:09:30.685 3e09 Level-0 table #1114: 5338303 bytes OK
+2020/08/24-10:09:30.693 3e09 Delete type=0 #1111
+2020/08/24-10:09:30.694 3e09 Compacting 4@0 + 2@1 files
+2020/08/24-10:09:30.797 3e09 Generated table #1115@0: 2 keys, 5338404 bytes
+2020/08/24-10:09:30.813 3e09 Generated table #1116@0: 7 keys, 426 bytes
+2020/08/24-10:09:30.813 3e09 Compacted 4@0 + 2@1 files => 5338830 bytes
+2020/08/24-10:09:30.848 3e09 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/08/24-10:09:30.849 3e09 Delete type=2 #1105
+2020/08/24-10:09:30.849 3e09 Delete type=2 #1107
+2020/08/24-10:09:30.849 3e09 Delete type=2 #1104
+2020/08/24-10:09:30.849 3e09 Delete type=2 #1114
+2020/08/24-10:09:30.849 3e09 Delete type=2 #1109
+2020/08/24-10:09:30.849 3e09 Delete type=2 #1112
+2020/08/24-10:13:20.809 3e09 Level-0 table #1118: started
+2020/08/24-10:13:20.890 3e09 Level-0 table #1118: 5328679 bytes OK
+2020/08/24-10:13:20.904 3e09 Delete type=0 #1113
+2020/08/24-18:39:46.990 3e09 Level-0 table #1120: started
+2020/08/24-18:39:47.075 3e09 Level-0 table #1120: 5329516 bytes OK
+2020/08/24-18:39:47.111 3e09 Delete type=0 #1117
+2020/08/24-18:42:42.986 3e09 Level-0 table #1122: started
+2020/08/24-18:42:43.129 3e09 Level-0 table #1122: 5328703 bytes OK
+2020/08/24-18:42:43.190 3e09 Delete type=0 #1119

@@ -1,0 +1,127 @@
+@import '~less/variables.less';
+#__wikibuy__ .__wikibuy {
+  .simple-section.display-in-modal {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    height: 100%;
+    position: relative;
+    .dismiss-notif,
+    .center {
+      text-align: center;
+    }
+    .dismiss-notif {
+      position: absolute;
+      bottom: -16px;
+      left: 50%;
+      width: 100%;
+      transform: translate(-50%, -50%);
+    }
+    .reward-text {
+      padding-bottom: 10px;
+      border-bottom: 1px solid #e3e9ef;
+      h2 {
+        font-size: 24px;
+        text-align: center;
+      }
+    }
+    .exclusion-text {
+      margin-top: 8px;
+    }
+    .reward-categories {
+      padding-top: 8px;
+      h5 {
+        text-align: left !important;
+      }
+    }
+  }
+  .cashback-category-section {
+    margin-top: 8px;
+    padding-right: 12px;
+    &.show-border {
+      padding-bottom: 20px;
+      border-bottom: 1px solid #dedede;
+    }
+    .toggle-container-cta {
+      margin-top: 4px !important;
+      color: #a1a1a1;
+      &:hover {
+        cursor: pointer;
+      }
+    }
+    .cashback-category-container {
+      overflow-y: hidden;
+      transition: max-height 0.2s ease-in;
+      width: 100%;
+      &.expanded {
+        height: 136.2px;
+        max-height: 136.2px;
+        overflow-y: scroll;
+        width: calc(100% + 12px);
+        .cashback-category-row {
+          padding-right: 4px;
+        }
+        &::-webkit-scrollbar {
+          display: block !important;
+          -webkit-appearance: none;
+        }
+
+        &::-webkit-scrollbar:vertical {
+          width: 8px;
+        }
+
+        &::-webkit-scrollbar-thumb {
+          border-radius: 4px;
+          border: 2px solid white; /* should match background, can't be transparent */
+          background-color: @lightGrey;
+        }
+
+        &::-webkit-scrollbar-track {
+          background-color: #fff;
+          border-radius: 4px;
+        }
+      }
+    }
+    .cashback-category-row {
+      display: flex;
+      justify-content: space-between;
+      line-height: 1.4;
+      font-family: 'Circular-Pro-Book';
+      font-size: 16px;
+      color: @charcoal;
+      span {
+        color: @palmetto;
+        min-width: 10%;
+        text-align: right;
+        margin-left: 8px;
+      }
+    }
+  }
+  .right {
+    .simple-section.display-in-modal {
+      width: 100%;
+      padding: 0 24px;
+      padding-top: 10px;
+      align-self: start;
+      .reward-categories {
+        padding-top: 20px;
+      }
+      &.center {
+        height: auto;
+        align-self: center;
+        padding-top: 0;
+        .reward-categories {
+          padding-top: 0;
+        }
+      }
+    }
+    .cashback-category-container.expanded {
+      &::-webkit-scrollbar-thumb {
+        border-color: #fafafa;
+      }
+      &::-webkit-scrollbar-track {
+        background-color: #fafafa;
+      }
+    }
+  }
+}

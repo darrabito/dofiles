@@ -1,0 +1,5 @@
+2020/08/05-14:51:24.101 2ff6d Reusing MANIFEST /home/dylan/.config/chromium/Default/IndexedDB/https_www.easybib.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/05-14:53:28.594 2e9c5 Level-0 table #5: started
+2020/08/05-14:53:28.600 2e9c5 Level-0 table #5: 981 bytes OK
+2020/08/05-14:53:28.608 2e9c5 Delete type=0 #3
+2020/08/05-14:53:28.608 2e9c5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

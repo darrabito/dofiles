@@ -1,0 +1,98 @@
+@import "~less/variables.less";
+#__wikibuy__ .__wikibuy {
+  .savings-wrapper.automatic {
+    opacity: 0;
+    animation: CouponfadeIn 300ms 0s ease forwards;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    margin: auto;
+    align-items: center;
+    > * {
+      width: 100%;
+    }
+    .coupon-count {
+      width: 100%;
+    }
+    button {
+      margin-right: 0;
+      width: 100%;
+    }
+    .try-more-link {
+      display: block;
+      margin: 16px auto 0px;
+      width: 200px;
+      text-align: center;
+      font-size: 17px;
+      &:hover {
+        color: @palmetto;
+        cursor: pointer;
+      }
+      &.invisible {
+        visibility: hidden;
+      }
+    }
+    h2 {
+      padding-top: 20px;
+      font-size: 20px !important;
+    }
+    h6.center {
+      text-align: center;
+    }
+    .view-codes-link-wrapper {
+      text-align: center;
+      h6 {
+        display: inline-block;
+        transition: all 0.3s ease;
+        vertical-align: top;
+        padding-top: 3px;
+        &.clickable {
+          cursor: pointer;
+          &:hover {
+            text-decoration: underline;
+          }
+          &:active {
+            opacity: 0.7;
+          }
+        }
+      }
+    }
+    .dismiss-notif {
+      text-align: center;
+    }
+    
+    ::-webkit-scrollbar { 
+      display: none; 
+    }
+
+    &.has-reward {
+      .partner-logo-img.success {
+        max-height: 70px;
+      }
+      &.has-exclusions {
+        .partner-logo-img.success {
+          max-height: 60px;
+        }
+      }
+      .primary-btn-large {
+        margin-top: 25px;
+      }
+      h2 {
+        padding-top: 30px;
+      }
+      .try-more-link {
+        margin-top: 15px;
+      }
+    }
+  }
+}
+
+@keyframes CouponfadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

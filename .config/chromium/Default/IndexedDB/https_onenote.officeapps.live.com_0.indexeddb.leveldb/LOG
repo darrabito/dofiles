@@ -1,0 +1,33 @@
+2020/08/08-11:20:31.299 71a Reusing MANIFEST /home/dylan/.config/chromium/Default/IndexedDB/https_onenote.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/08-11:20:31.299 71a Recovering log #3
+2020/08/08-11:20:31.323 71a Reusing old log /home/dylan/.config/chromium/Default/IndexedDB/https_onenote.officeapps.live.com_0.indexeddb.leveldb/000003.log 
+2020/08/08-11:20:40.715 9f1 Level-0 table #5: started
+2020/08/08-11:20:40.770 9f1 Level-0 table #5: 1100750 bytes OK
+2020/08/08-11:20:40.840 9f1 Delete type=0 #3
+2020/08/08-11:20:48.149 9f1 Level-0 table #7: started
+2020/08/08-11:20:48.206 9f1 Level-0 table #7: 1610540 bytes OK
+2020/08/08-11:20:48.242 9f1 Delete type=0 #4
+2020/08/08-11:21:42.084 9f1 Compacting 1@1 + 1@2 files
+2020/08/08-11:21:42.151 9f1 Generated table #8@1: 304 keys, 2238661 bytes
+2020/08/08-11:21:42.192 9f1 Generated table #9@1: 23 keys, 442445 bytes
+2020/08/08-11:21:42.192 9f1 Compacted 1@1 + 1@2 files => 2681106 bytes
+2020/08/08-11:21:42.228 9f1 compacted to: files[ 0 0 2 0 0 0 0 ]
+2020/08/08-11:21:42.228 9f1 Delete type=2 #7
+2020/08/08-11:21:42.228 9f1 Delete type=2 #5
+2020/08/08-11:22:05.728 9f1 Level-0 table #11: started
+2020/08/08-11:22:05.779 9f1 Level-0 table #11: 1230509 bytes OK
+2020/08/08-11:22:05.815 9f1 Delete type=0 #6
+2020/08/08-11:22:47.871 9f1 Compacting 1@1 + 2@2 files
+2020/08/08-11:22:47.941 9f1 Generated table #12@1: 187 keys, 2107730 bytes
+2020/08/08-11:22:47.994 9f1 Generated table #13@1: 172 keys, 1788292 bytes
+2020/08/08-11:22:47.994 9f1 Compacted 1@1 + 2@2 files => 3896022 bytes
+2020/08/08-11:22:48.075 9f1 compacted to: files[ 0 0 2 0 0 0 0 ]
+2020/08/08-11:22:48.075 9f1 Delete type=2 #9
+2020/08/08-11:22:48.075 9f1 Delete type=2 #11
+2020/08/08-11:22:48.075 9f1 Delete type=2 #8
+2020/08/08-11:22:49.406 9f1 Level-0 table #15: started
+2020/08/08-11:22:49.460 9f1 Level-0 table #15: 4561140 bytes OK
+2020/08/08-11:22:49.497 9f1 Delete type=0 #10
+2020/08/08-11:22:50.128 9f1 Level-0 table #17: started
+2020/08/08-11:22:50.196 9f1 Level-0 table #17: 4281344 bytes OK
+2020/08/08-11:22:50.239 9f1 Delete type=0 #14

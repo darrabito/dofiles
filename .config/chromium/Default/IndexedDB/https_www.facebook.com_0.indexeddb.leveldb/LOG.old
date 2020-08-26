@@ -1,0 +1,15 @@
+2020/07/26-22:13:47.529 6f6 Reusing MANIFEST /home/dylan/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/26-22:13:47.530 6f6 Recovering log #71
+2020/07/26-22:13:47.530 6f6 Reusing old log /home/dylan/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000071.log 
+2020/07/26-22:14:19.565 999 Level-0 table #76: started
+2020/07/26-22:14:19.580 999 Level-0 table #76: 665 bytes OK
+2020/07/26-22:14:19.587 999 Delete type=0 #71
+2020/07/26-22:14:19.587 999 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/26-22:14:19.587 999 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0a\x00s\x00w\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 497 : 1
+2020/07/26-22:14:19.587 999 Compacting 1@1 + 1@2 files
+2020/07/26-22:14:19.593 999 Generated table #77@1: 22 keys, 652 bytes
+2020/07/26-22:14:19.593 999 Compacted 1@1 + 1@2 files => 652 bytes
+2020/07/26-22:14:19.599 999 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/26-22:14:19.599 999 Delete type=2 #73
+2020/07/26-22:14:19.599 999 Delete type=2 #76
+2020/07/26-22:14:19.600 999 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0a\x00s\x00w\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 497 : 1 .. (end); will stop at (end)

@@ -1,0 +1,189 @@
+@import '~less/variables.less';
+
+#__wikibuy__
+  .__wikibuy
+  .coupon-page.full-page.run-automatically.with-autocoup-tooltip
+  .coupon-notification {
+  @media (max-height: 915px) {
+    top: calc(50% + 126px) !important;
+  }
+  @media (max-height: 660px) {
+    top: calc(50% + 200px) !important;
+  }
+}
+
+#__wikibuy__ .__wikibuy .new-tooltip {
+  position: fixed;
+  opacity: 0;
+  animation: opacIn 350ms ease forwards;
+  &.top {
+    animation: tooltipDown 350ms ease forwards;
+  }
+  &.credits-reminder {
+    position: absolute;
+    animation: reminderOpacIn 350ms ease forwards;
+    h2 {
+      text-align: center;
+    }
+    .dismiss-text {
+      display: block;
+      margin-top: 12px;
+      font-size: 14px;
+      line-height: 20px;
+      text-align: left;
+    }
+  }
+  .new-tooltip-wrapper {
+    background: @midnight;
+    border-radius: 7px;
+    padding: 24px;
+    width: 100%;
+    height: 100%;
+    .triangle.credits-reminder {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid transparent;
+      border-top: 10px solid transparent;
+      border-left: 10px solid @midnight;
+      position: absolute;
+      top: 50%;
+      right: -10px;
+      transform: translateY(-50%);
+    }
+  }
+  h2 {
+    color: @offWhite;
+  }
+  .close {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    color: #c9d1d7;
+    font-size: 12px;
+    cursor: pointer;
+  }
+  .bold {
+    color: #fff;
+    padding-right: 7px;
+  }
+  &.autocoup {
+    filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.3));
+    opacity: 1;
+    padding-bottom: 12px;
+    opacity: 0;
+    animation: autocouptooltipDropIn 0.5s 0.5s ease forwards;
+    &.dismissed {
+      animation: autocouptooltipFadeOut 300ms ease;
+      pointer-events: none;
+    }
+    .new-tooltip-wrapper {
+      background: white;
+      animation-name: autocouptooltipBounce;
+      animation-iteration-count: 2;
+      animation-duration: 1.3s;
+      animation-delay: 1s;
+      position: relative;
+    }
+    h5 {
+      text-align: center;
+    }
+    .close {
+      right: 10px;
+      top: 10px;
+      font-size: 10px;
+    }
+    .triangle {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid transparent;
+      border-top: 10px solid transparent;
+      border-left: 10px solid white;
+      position: absolute;
+      bottom: 54px;
+      right: -7px;
+    }
+    button.turn-off {
+      height: 40px;
+      top: 8px;
+      left: 10px;
+      color: white;
+      background-color: @green;
+      border-radius: 6px;
+      border: none;
+    }
+  }
+
+  @keyframes autocouptooltipFadeOut {
+    0% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+      display: none;
+    }
+  }
+
+  @keyframes autocouptooltipDropIn {
+    0% {
+      opacity: 0;
+      transform: translate3d(0, -15px, 0);
+    }
+    100% {
+      opacity: 1;
+      transform: translate3d(0, 0px, 0);
+    }
+  }
+
+  @keyframes autocouptooltipBounce {
+    0% {
+      transform: translate3d(0, 0px, 0);
+    }
+    50% {
+      transform: translate3d(0, -5px, 0);
+    }
+    100% {
+      transform: translate3d(0, 0px, 0);
+    }
+  }
+
+  @keyframes tooltipDown {
+    0% {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateX(0px);
+    }
+  }
+  @keyframes tooltipLeft {
+    0% {
+      opacity: 0;
+      transform: translateX(-10px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateX(0px);
+    }
+  }
+  @keyframes opacIn {
+    0% {
+      opacity: 0;
+      transform: translateX(0px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateX(0px);
+    }
+  }
+  @keyframes reminderOpacIn {
+    0% {
+      opacity: 0;
+      transform: translateY(-50%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(-50%);
+    }
+  }
+}

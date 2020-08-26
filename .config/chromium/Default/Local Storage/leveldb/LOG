@@ -1,0 +1,6 @@
+2020/08/25-14:11:10.499 745 Reusing MANIFEST /home/dylan/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/08/25-14:11:10.499 745 Recovering log #251
+2020/08/25-14:11:10.499 745 Reusing old log /home/dylan/.config/chromium/Default/Local Storage/leveldb/000251.log 
+2020/08/25-15:07:32.374 7b9 Level-0 table #255: started
+2020/08/25-15:07:32.420 7b9 Level-0 table #255: 28984 bytes OK
+2020/08/25-15:07:32.457 7b9 Delete type=0 #251

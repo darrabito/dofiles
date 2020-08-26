@@ -1,0 +1,24 @@
+2020/08/24-10:08:26.179 3a63 Reusing MANIFEST /home/dylan/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/08/24-10:08:26.180 3a63 Recovering log #241
+2020/08/24-10:08:26.180 3a63 Reusing old log /home/dylan/.config/chromium/Default/Local Storage/leveldb/000241.log 
+2020/08/24-10:43:31.151 4aea Level-0 table #245: started
+2020/08/24-10:43:31.160 4aea Level-0 table #245: 20016 bytes OK
+2020/08/24-10:43:31.169 4aea Delete type=0 #241
+2020/08/24-11:13:33.108 4aea Level-0 table #247: started
+2020/08/24-11:13:33.144 4aea Level-0 table #247: 38316 bytes OK
+2020/08/24-11:13:33.179 4aea Delete type=0 #244
+2020/08/24-11:13:33.180 4aea Compacting 4@0 + 1@1 files
+2020/08/24-11:13:33.232 4aea Generated table #248@0: 2291 keys, 1312958 bytes
+2020/08/24-11:13:33.232 4aea Compacted 4@0 + 1@1 files => 1312958 bytes
+2020/08/24-11:13:33.268 4aea compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/08/24-11:13:33.268 4aea Delete type=2 #242
+2020/08/24-11:13:33.268 4aea Delete type=2 #236
+2020/08/24-11:13:33.268 4aea Delete type=2 #239
+2020/08/24-11:13:33.268 4aea Delete type=2 #245
+2020/08/24-11:13:33.268 4aea Delete type=2 #247
+2020/08/24-18:54:29.569 4aea Level-0 table #250: started
+2020/08/24-18:54:29.605 4aea Level-0 table #250: 45480 bytes OK
+2020/08/24-18:54:29.642 4aea Delete type=0 #246
+2020/08/24-19:06:14.996 4aea Level-0 table #252: started
+2020/08/24-19:06:15.012 4aea Level-0 table #252: 15568 bytes OK
+2020/08/24-19:06:15.027 4aea Delete type=0 #249

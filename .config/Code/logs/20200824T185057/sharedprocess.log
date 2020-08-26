@@ -1,0 +1,2 @@
+[2020-08-24 18:51:01.101] [sharedprocess] [info] main {"machineId":"6ee722b41bdd13939114a03302ea20e085d0bb042c2b1ef500664e7d1b725fe8","windowId":2}
+[2020-08-24 18:51:01.143] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/dylan/.config/Code/User/snippets'

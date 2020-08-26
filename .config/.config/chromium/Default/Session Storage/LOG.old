@@ -1,0 +1,15 @@
+2020/07/26-22:48:18.654 6a3 Reusing MANIFEST /home/dylan/.config/chromium/Default/Session Storage/MANIFEST-000001
+2020/07/26-22:48:18.655 6a3 Recovering log #29
+2020/07/26-22:48:18.656 6a3 Reusing old log /home/dylan/.config/chromium/Default/Session Storage/000029.log 
+2020/07/26-22:51:01.334 bc2 Level-0 table #33: started
+2020/07/26-22:51:01.342 bc2 Level-0 table #33: 17809 bytes OK
+2020/07/26-22:51:01.349 bc2 Delete type=0 #29
+2020/07/26-22:51:01.349 bc2 Compacting 4@0 + 1@1 files
+2020/07/26-22:51:01.360 bc2 Generated table #34@0: 1570 keys, 36274 bytes
+2020/07/26-22:51:01.360 bc2 Compacted 4@0 + 1@1 files => 36274 bytes
+2020/07/26-22:51:01.366 bc2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/07/26-22:51:01.366 bc2 Delete type=2 #24
+2020/07/26-22:51:01.366 bc2 Delete type=2 #30
+2020/07/26-22:51:01.366 bc2 Delete type=2 #33
+2020/07/26-22:51:01.366 bc2 Delete type=2 #21
+2020/07/26-22:51:01.366 bc2 Delete type=2 #26

@@ -1,0 +1,15 @@
+2020/07/31-22:58:57.681 af2 Reusing MANIFEST /home/dylan/.config/chromium/Default/IndexedDB/https_www.ubuntupit.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/31-22:58:57.681 af2 Recovering log #4
+2020/07/31-22:58:57.681 af2 Reusing old log /home/dylan/.config/chromium/Default/IndexedDB/https_www.ubuntupit.com_0.indexeddb.leveldb/000004.log 
+2020/07/31-22:59:09.650 a3e Level-0 table #8: started
+2020/07/31-22:59:09.687 a3e Level-0 table #8: 3698 bytes OK
+2020/07/31-22:59:09.725 a3e Delete type=0 #4
+2020/07/31-22:59:09.725 a3e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/31-22:59:09.725 a3e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 397 : 1
+2020/07/31-22:59:09.725 a3e Compacting 1@1 + 1@2 files
+2020/07/31-22:59:09.796 a3e Generated table #9@1: 97 keys, 2239 bytes
+2020/07/31-22:59:09.796 a3e Compacted 1@1 + 1@2 files => 2239 bytes
+2020/07/31-22:59:09.866 a3e compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/31-22:59:09.867 a3e Delete type=2 #8
+2020/07/31-22:59:09.867 a3e Delete type=2 #5
+2020/07/31-22:59:09.870 a3e Manual compaction at level-1 from '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 397 : 1 .. (end); will stop at (end)

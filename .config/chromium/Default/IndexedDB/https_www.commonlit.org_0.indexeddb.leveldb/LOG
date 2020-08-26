@@ -1,0 +1,26 @@
+2020/08/10-11:28:50.220 cf6c Reusing MANIFEST /home/dylan/.config/chromium/Default/IndexedDB/https_www.commonlit.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/10-11:28:50.220 cf6c Recovering log #12
+2020/08/10-11:28:50.220 cf6c Reusing old log /home/dylan/.config/chromium/Default/IndexedDB/https_www.commonlit.org_0.indexeddb.leveldb/000012.log 
+2020/08/10-11:28:50.900 b08a Level-0 table #18: started
+2020/08/10-11:28:50.935 b08a Level-0 table #18: 4767 bytes OK
+2020/08/10-11:28:50.971 b08a Delete type=0 #12
+2020/08/10-11:28:50.971 b08a Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/08/10-11:28:52.947 b08a Level-0 table #20: started
+2020/08/10-11:28:52.982 b08a Level-0 table #20: 237 bytes OK
+2020/08/10-11:28:53.018 b08a Delete type=0 #17
+2020/08/10-11:28:53.018 b08a Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 1236 : 0
+2020/08/10-11:28:53.018 b08a Compacting 1@0 + 1@1 files
+2020/08/10-11:28:53.054 b08a Generated table #21@0: 4 keys, 218 bytes
+2020/08/10-11:28:53.054 b08a Compacted 1@0 + 1@1 files => 218 bytes
+2020/08/10-11:28:53.122 b08a compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/08/10-11:28:53.122 b08a Delete type=2 #18
+2020/08/10-11:28:53.122 b08a Delete type=2 #20
+2020/08/10-11:28:53.122 b08a Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 1236 : 0 .. (end); will stop at (end)
+2020/08/10-11:28:53.122 b08a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 1238 : 1
+2020/08/10-11:28:53.122 b08a Compacting 1@1 + 1@2 files
+2020/08/10-11:28:53.190 b08a Generated table #22@1: 6 keys, 248 bytes
+2020/08/10-11:28:53.190 b08a Compacted 1@1 + 1@2 files => 248 bytes
+2020/08/10-11:28:53.227 b08a compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/10-11:28:53.227 b08a Delete type=2 #15
+2020/08/10-11:28:53.227 b08a Delete type=2 #21
+2020/08/10-11:28:53.228 b08a Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 1238 : 1 .. (end); will stop at (end)

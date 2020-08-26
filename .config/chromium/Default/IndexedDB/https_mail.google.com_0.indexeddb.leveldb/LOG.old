@@ -1,0 +1,15 @@
+2020/08/24-10:38:54.776 508a Reusing MANIFEST /home/dylan/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/24-10:38:54.776 508a Recovering log #32
+2020/08/24-10:38:54.776 508a Reusing old log /home/dylan/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000032.log 
+2020/08/24-10:51:41.241 5132 Level-0 table #37: started
+2020/08/24-10:51:41.254 5132 Level-0 table #37: 609654 bytes OK
+2020/08/24-10:51:41.271 5132 Delete type=0 #32
+2020/08/24-10:51:41.271 5132 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/24-10:51:41.271 5132 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x001\x00/' @ 16614 : 1
+2020/08/24-10:51:41.271 5132 Compacting 1@1 + 1@2 files
+2020/08/24-10:51:41.284 5132 Generated table #38@1: 111 keys, 55573 bytes
+2020/08/24-10:51:41.284 5132 Compacted 1@1 + 1@2 files => 55573 bytes
+2020/08/24-10:51:41.296 5132 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/24-10:51:41.296 5132 Delete type=2 #37
+2020/08/24-10:51:41.296 5132 Delete type=2 #34
+2020/08/24-10:51:41.296 5132 Manual compaction at level-1 from '\x00\x08\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x001\x00/' @ 16614 : 1 .. (end); will stop at (end)

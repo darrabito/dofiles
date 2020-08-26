@@ -1,0 +1,315 @@
+{
+   "checksum": "593a0e7ab39b3d278fa01b6c4f2d3759",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13097373382767396",
+               "guid": "9c8c9d9c-f702-4c63-817c-63b791188a93",
+               "id": "12",
+               "meta_info": {
+                  "last_visited_desktop": "13195093817882170"
+               },
+               "name": "G2A.COM Marketplace",
+               "type": "url",
+               "url": "https://www.g2a.com/"
+            }, {
+               "date_added": "13167634139533539",
+               "guid": "1a8de7ff-1a25-4932-92e3-74664684bc82",
+               "id": "13",
+               "meta_info": {
+                  "last_visited_desktop": "13192068003871962"
+               },
+               "name": "Humble Bundle",
+               "type": "url",
+               "url": "https://www.humblebundle.com/"
+            }, {
+               "date_added": "13178165489538514",
+               "guid": "4803b897-e19e-41b9-8fd0-d9c119233b62",
+               "id": "14",
+               "meta_info": {
+                  "last_visited_desktop": "13203719840853683"
+               },
+               "name": "Rocket League Garage — Worlds first fansite for Rocket League",
+               "type": "url",
+               "url": "https://rocket-league.com/"
+            }, {
+               "date_added": "13211846099632593",
+               "guid": "fc14f2ff-b4b7-404a-a85f-f01e9d2350ef",
+               "id": "15",
+               "name": "Rocket League Stats, MMR, Leaderboards, & More!",
+               "type": "url",
+               "url": "https://rocketleague.tracker.network/"
+            }, {
+               "date_added": "13197777589063828",
+               "guid": "0279aa6f-8de3-4d37-a820-cf79f5674cdd",
+               "id": "16",
+               "meta_info": {
+                  "last_visited_desktop": "13204579636553181"
+               },
+               "name": "Divinity Original Sin 2 Builds: Scourge Wizard | Fextralife",
+               "type": "url",
+               "url": "https://fextralife.com/divinity-original-sin-2-builds-scourge-wizard/"
+            }, {
+               "date_added": "13215633367615983",
+               "guid": "b0cbb100-64a7-4c52-8c45-e79575e031e4",
+               "id": "17",
+               "name": "Watch Nanatsu no Taizai / Seven Deadly Sins Season 3 Online",
+               "type": "url",
+               "url": "http://w1.watch7deadlysins2.net/"
+            }, {
+               "date_added": "13218664626895160",
+               "guid": "017da4ec-042a-46f8-8fcb-d3ac2d474ec9",
+               "id": "18",
+               "name": "Watch Black Clover Anime Online",
+               "type": "url",
+               "url": "http://ww5.watchblackclover.com/"
+            }, {
+               "date_added": "13218829697827945",
+               "guid": "30c2bace-6910-4183-a56b-9cfb78fc834a",
+               "id": "19",
+               "name": "Watch Dr. Stone anime in English subbed in high-quality on Darkanime.stream",
+               "type": "url",
+               "url": "https://darkanime.stream/animes/dr-stone"
+            }, {
+               "date_added": "13218920062757889",
+               "guid": "844caa87-9218-4deb-b5ec-fc8d63fd3daa",
+               "id": "20",
+               "name": "Watch Enen no Shouboutai anime in English subbed in high-quality on Darkanime.stream",
+               "type": "url",
+               "url": "https://darkanime.stream/animes/enen-no-shouboutai"
+            }, {
+               "date_added": "13220430667569866",
+               "guid": "1e1963ee-6b29-42ea-8eaf-888db264992d",
+               "id": "21",
+               "name": "Watch Rick and Morty Season 4 online free kisscartoon",
+               "type": "url",
+               "url": "https://kisscartoon.info/rick-and-morty-season-4/"
+            } ],
+            "date_added": "13239857490516021",
+            "date_modified": "13239857490516022",
+            "guid": "b676b06a-c590-470d-b43c-8e4ade8c4167",
+            "id": "11",
+            "name": "Misc",
+            "type": "folder"
+         }, {
+            "date_added": "13129785733186087",
+            "guid": "b906368b-f2de-4edb-a9c6-e4378ba039e1",
+            "id": "22",
+            "meta_info": {
+               "last_visited": "13182832776587265",
+               "last_visited_desktop": "13204144651508389"
+            },
+            "name": "Library Genesis",
+            "type": "url",
+            "url": "http://gen.lib.rus.ec/"
+         }, {
+            "children": [ {
+               "date_added": "13163232000976036",
+               "guid": "49425b95-5552-408f-bbb7-6555a45f36b4",
+               "id": "24",
+               "meta_info": {
+                  "last_visited": "13185334130815303",
+                  "last_visited_desktop": "13195178931184657"
+               },
+               "name": "Firmware - Electric Vehicle Team - RIT Wiki",
+               "type": "url",
+               "url": "https://wiki.rit.edu/display/EVT/Firmware"
+            }, {
+               "date_added": "13164168412221667",
+               "guid": "c9b31cef-c981-41dc-83c2-fb9918b7a35b",
+               "id": "25",
+               "meta_info": {
+                  "last_visited_desktop": "13196535539405016"
+               },
+               "name": "general | RIT Electric Vehicle Team Slack",
+               "type": "url",
+               "url": "https://ritevt.slack.com/messages/C0A51BS14/"
+            }, {
+               "date_added": "13164425552299352",
+               "guid": "c1ea9cac-851f-404b-9988-4821b7f75393",
+               "id": "26",
+               "meta_info": {
+                  "last_visited_desktop": "13188535933266782"
+               },
+               "name": "Compiler Explorer",
+               "type": "url",
+               "url": "https://godbolt.org/"
+            }, {
+               "date_added": "13184362645418921",
+               "guid": "a61bfb07-8943-4af2-aa4a-46e4487e89ad",
+               "id": "27",
+               "meta_info": {
+                  "last_visited_desktop": "13196017137682915"
+               },
+               "name": "evt / mbed-applications — Bitbucket",
+               "type": "url",
+               "url": "https://bitbucket.org/evt/mbed-applications/src/develop/"
+            }, {
+               "date_added": "13212546008855595",
+               "guid": "d1554064-9df6-4253-a57d-4fec5c33774a",
+               "id": "28",
+               "name": "Scripts (LD)",
+               "type": "url",
+               "url": "https://sourceware.org/binutils/docs/ld/Scripts.html"
+            }, {
+               "date_added": "13213125955772531",
+               "guid": "964d2bd8-b346-4aae-aa95-ec7ad019ddd2",
+               "id": "29",
+               "name": "stm32f3",
+               "type": "url",
+               "url": "https://www.st.com/content/ccc/resource/technical/document/reference_manual/16/bf/04/cd/f6/25/44/a7/DM00094349.pdf/files/DM00094349.pdf/jcr:content/translations/en.DM00094349.pdf"
+            }, {
+               "date_added": "13217387337706166",
+               "guid": "c1b07d0e-874d-43fe-b767-1cc6a417dac4",
+               "id": "30",
+               "name": "High-Side Measurement, Bi-Directional Current/Power Monitor w/I&sup2;C Interface datasheet (Rev. A)",
+               "type": "url",
+               "url": "http://www.ti.com/lit/ds/symlink/ina226.pdf"
+            } ],
+            "date_added": "13239857490517839",
+            "date_modified": "13239857490517840",
+            "guid": "440c440b-a211-41d7-92ff-d6b364517483",
+            "id": "23",
+            "name": "EVT",
+            "type": "folder"
+         }, {
+            "date_added": "13211580259589255",
+            "guid": "2c2ec0e1-4381-46c5-a92f-b9c17069f89c",
+            "id": "31",
+            "name": "MATLAB Online R2019a",
+            "type": "url",
+            "url": "https://matlab.mathworks.com/"
+         }, {
+            "children": [ {
+               "date_added": "13233779715333158",
+               "guid": "869f098f-ff3f-4491-a6b8-2c22ec211436",
+               "id": "34",
+               "name": "Mail – darrabito@carnegierobotics.com",
+               "type": "url",
+               "url": "https://mail.carnegierobotics.com/owa/#path=/mail"
+            }, {
+               "date_added": "13234463335721780",
+               "guid": "8daa23d0-cab4-44d8-8c31-7a196788f598",
+               "id": "35",
+               "name": "Dashboard",
+               "type": "url",
+               "url": "https://my.adp.com/static/redbox/4.12.111/#/dashboard"
+            }, {
+               "date_added": "13235504710208283",
+               "guid": "fc5133f2-4d1a-4774-ac46-4b894268598d",
+               "id": "36",
+               "name": "",
+               "type": "url",
+               "url": "file:///home/darrabito/Downloads/InMotion%20Motor%20Controller%20Product%20Manual%20APS3%20rev%2010.pdf"
+            }, {
+               "date_added": "13235504713817717",
+               "guid": "bec8e75b-f970-49f4-b53d-ea8f24b47b5c",
+               "id": "37",
+               "name": "",
+               "type": "url",
+               "url": "file:///home/darrabito/Downloads/InMotion%20Motor%20Controller%20-%20Mobility%20drives%20Object%20Dictionary%20Plasma.pdf"
+            } ],
+            "date_added": "13239857490519855",
+            "date_modified": "13240273799189455",
+            "guid": "6ee6a1dd-25f6-4f0b-8416-8aaab6407063",
+            "id": "33",
+            "name": "CRL",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13240273799189455",
+               "guid": "26011b44-90d6-4c5e-8bbb-fcd87e9621d9",
+               "id": "49",
+               "name": "yshui/picom: A lightweight compositor for X11 (previously a compton fork)",
+               "type": "url",
+               "url": "https://github.com/yshui/picom"
+            }, {
+               "date_added": "13240290923753683",
+               "guid": "b70ce511-2817-4848-8a0c-e003a234b8a1",
+               "id": "53",
+               "name": "linux - sudo command is not working on Ubuntu 16.4 - Super User",
+               "type": "url",
+               "url": "https://superuser.com/questions/1445629/sudo-command-is-not-working-on-ubuntu-16-4"
+            } ],
+            "date_added": "13240273842550937",
+            "date_modified": "13240290923753683",
+            "guid": "ff8002c0-60d4-4047-b391-73ae30d110b1",
+            "id": "51",
+            "name": "Github",
+            "type": "folder"
+         } ],
+         "date_added": "13239849902284170",
+         "date_modified": "13239825924572387",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13150399037233799",
+            "guid": "d1983be7-620d-40ba-9531-339fd3defae7",
+            "id": "9",
+            "name": "The Budget DIY Electric Longboard: 24 Steps (with Pictures)",
+            "type": "url",
+            "url": "http://www.instructables.com/id/DIY-Electric-Longboard/"
+         }, {
+            "date_added": "13162437895822012",
+            "guid": "61502e3a-601f-405d-896d-40561fe57244",
+            "id": "10",
+            "name": "Single Bolt On Motor Mount Set ONLY (Black) – DIY Electric Skateboard",
+            "type": "url",
+            "url": "https://diyelectricskateboard.com/products/single-bolt-on-motor-mount-set-only-black"
+         } ],
+         "date_added": "13239849902284601",
+         "date_modified": "13162437895822012",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13151218626903105",
+            "guid": "c7b134a6-9f01-4d21-bdf8-1e87d77e7381",
+            "id": "44",
+            "meta_info": {
+               "last_visited": "13186655245528088"
+            },
+            "name": "Nurse Shoes - GupStyle",
+            "type": "url",
+            "url": "https://gupstyle.com/collections/nurse-shoes"
+         }, {
+            "date_added": "13228119930630021",
+            "guid": "c7a89452-d2dc-4502-8028-c54a47830eae",
+            "id": "45",
+            "name": "[SOLVED] CTD when near Whiterun (modded Skyrim) :: The Elder Scrolls V: Skyrim Special Edition General Discussions",
+            "type": "url",
+            "url": "https://steamcommunity.com/app/489830/discussions/0/2579854400736762435/"
+         }, {
+            "date_added": "13228120044510205",
+            "guid": "b4ad30f3-a628-4653-b230-ea6cdf57aebd",
+            "id": "46",
+            "name": "Consistent crash near Whiterun - Skyrim Special Edition Technical Support - The Nexus Forums",
+            "type": "url",
+            "url": "https://forums.nexusmods.com/index.php?/topic/6403176-consistent-crash-near-whiterun/"
+         }, {
+            "date_added": "13229969525560752",
+            "guid": "dc991db8-b068-41e3-9c53-c020a5dbd13e",
+            "id": "47",
+            "name": "Requiem v3.4.0 for SSE Conversion Guide for Mod Organizer - Skyrim: Special Edition - LoversLab",
+            "type": "url",
+            "url": "https://www.loverslab.com/topic/91985-requiem-v340-for-sse-conversion-guide-for-mod-organizer/"
+         } ],
+         "date_added": "13239849902284604",
+         "date_modified": "13229969525560752",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CscBCqYBCIiBAhKfARKMAQgCEk4KBgoCYm0QARAzGhIJAGiQIGOrBQAhAGiQIGOrBQAiFAlpkdgsY6sFABABGbeDin6Z4RK3MhgKFggCEW5W3DBjqwUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgkAaJAgY6sFACEAaJAgY6sFADIYChYIAhFuVtwwY6sFABgAIQAAAAAAAAAAIABI8/iD8bgucPP4g/G4LhIAIAEqGGFIMHgxMlc0Y2czU1NtOU96L0gxVnc9PRK+AQgCErkBChx6RFZHcnJ0WkxkTSs0QlR5YmcrSENPcldneW89EmZaOkFEcXRBWnhlUjlqTUxVcGplb3RhaG56MEgxRWFheW1CWTA5WmNNb0NqeGVJclNzeUNBMWt4VUhwV3E3TU9xV0duTFpMRVNISUlQVDhuZ3M0Y1FNZmJoaElyMzduYThwSWJBPT0YACAAKAAwsuyoj+Tf6gI4AEAAShw1dXN5L2NwZnBpMUV0b0JIRGdYSXMwcWI0ckE9WgASqAIIDhKjAgocRG9jQkhlcHlib1g3d2liNjhsQ09PWEF5L3NZPRKmAVo6QURxdEFaeTRzS2s2ejF0d2lDZVBLdks5VVAxMytxa2hmd3dGT0ZnTDJEdXg5dDBzNTBrQXUxMyttaEtIZE1BMi92RExsNi91U09wUDdCUDloSGNzL1ZpYTloOWdQMjRwRkFxVXBOVnpYaHZaKzhndUpHUGtqQkVRVUxBN1JzR1c1L2drd3ExVEdDRzdzWVpDcjl5NkRYMHpGU0VKMTdVeDlnPT0YACAAKAAw2YDK/fGB6gI4go+kudEsQIKPpLnRLEocMEZ4Q2RVbXNmeUNUbVFrcDQ4d3oxdjRNeThjPVofIh3TTVV3amZSZkxOaWJiVnRlaFROOFUyNzNBQTV3PRKoAggNEqMCChxTemk3b1ZsY3pZR0lvOTRGVkZaT0F5cTR5dDA9EqYBWjpBRHF0QVp5NHNLazZ6MXR3aUNlUEt2SzlVUDEzK3FraGZ3d0ZPRmdMMkR1eDl0MHM1eU9weEZIRmFhNCtPYUp1eTRjREY3Y3ZOcURnTzlpVW1HbGxjblJCZ3RjWmV3TVRpVE1nSGlKVzF6WnBaV0M1d2x5VzU3MnQ4eHRpa0Z5dWpaQnFzdDBoNzRLanhlazQ0WDZYN1BveHJtVnFNNnFNanc9PRgAIAAoADDZgMr98YHqAjiNw8WbqixAjcPFm6osShxreHJndWJPa2FXRG0vRmhhM25FemxhR0hXTmM9Wh8iHaY5cUU1Y28rTTlaWGVqZmFBbVBEaHh5Mm1Ucms9EqgCCAkSowIKHEd5S3hlWllSQmlyQ0JTTG1VU1ZVMkZtRlNFaz0SpgFaOkFEcXRBWnk0c0trNnoxdHdpQ2VQS3ZLOVVQMTMrdWtGWkRiNzE1MzRNeDBwYXdOaGxMVGIxaG0zQUNhTXpxWUZQQ1YyMTZteVR1Q2dSY01qa1VuUUVsRWttdm1hSDRZREk5aFk2cGVWd0M2YUd6alFEaEI0TmIyLzlEZ3UxaHJTK1pwVkE1THFTVThvQjQzdGRGNmU4aXRsU1VaY0FVbjc1dz09GAAgACgAMJHKxI2c4ekCOLSumoHqK0C0rpqB6itKHFhIdVBjejdNdis0NmdyczBtQjk2bU5iSWU1VT1aHyId+0tETmk2eTlQeEFlWWU0TEcwaVA4VHZNYlZCcz0SsAIIMxKrAgocSU1aZTRIR2czeUhtRWltUVhEeENXRExNcjJRPRKmAVo6QURxdEFaeTRzS2s2ejF0d2lDZVBLdks5VVAxMzNEdlI4QUpicytEcEVKNkE5WEQ2aUV6d3BMTHhja1BOTXpwQWRjNy80clA5aG9nNEYyRkFaV1hmbms5ZWJaWEh2cHpmV1BHek4zWG44clJBaTRPaGZFQ1QyWDBCQ2F4dUszdnZlcCtZckVkVEZIcG56S1U3YVlOb1hKVDJCc2tzYkdwR0FnPT0YACABKAEw3KnylfPr6gI495Lt6LguQPeS7ei4LkocdVpXdHlrQ0o1V2tsQjloT00ydVREYlp3V2lnPVonIiX/////AAAABv5KUTRnVDNwbSt5ZmQ3aFZOOFdCVnRKN0F6RU09EqcCCDUSogIKHDNRc0w0WVh3SHp2ZExDS2YyRzlrUmZSYUY1az0SpgFaOkFEcXRBWnk0c0trNnoxdHdpQ2VQS3ZLOVVQMTMzRHZSOEFKYnMrRHBFSjZBOVhENmlJcE1Dd0lZb3BHMXVLdjNickJpZmZNOXZ6NTg1N2kvN1ZtUDNjUGtDNHMzZ3VxaTNVdlB5L3dlanpiMU1HNEp4aEZBWXdWUERpc05NWkhHU3BIdU82a29ReGhRNEc5NGVNSXkySE56VWpGY2w0WVozQT09GAAgAigCMOii4uay7OoCOOrZ//C4LkDx2f/wuC5KHC9DamRJUkwvTXh4Qm5DdVlVQ000Rk9Xei9FST1aHiIcaUxBcXp5UW1qSytzZkxKeWU0ck84ZzVIME5VPRKnAggxEqICChxUR3pYazRrRjJ6SXhhQmVNNlgxNnFXUUZ3Qms9EqYBWjpBRHF0QVp5NHNLazZ6MXR3aUNlUEt2SzlVUDEzM0R2UjhBSmJzK0RwRUo2QTlYRDZpS201QzFodTYrVEw5MVFFUmJ0ODZMUXhwRkRqdVhVWTd5RmlRMDViMk5Ud0xPVmREVExRbVdLNVVVVVJ3OGh1SjdHUTE3V2FXQ2tjSTJha3JPZnVQdmtTbzFrNmpMZFpHQzY3c1liN0tId1pIVnhsN1E9PRgAIAMoAzDcqfKV8+vqAjiWwOrouC5A95Lt6LguShxEMVdNTUZ5aFlFK1k4SlJsN0k5eW0vS2FrL0U9Wh4iHE1pM09PdjdRNVp3eExPYm4xdnZsZk1zd2RaMD0SqAIIGxKjAgocUE9GR1UxbzlybmFaanFVNDE5THliWG5rZVlzPRKmAVo6QURxdEFaeTRzS2s2ejF0d2lDZVBLdks5VVAxMzZMbUE0NUlnK3JjRy9PQlJFNndUeDBOVTRIR1dKRVE5OFpaNXRYanhJcUVjQUUrYnQ0aVlRL3hmUzdUam5YVmxLZ1ZGdjAzS2NBeEY5alV6ZTBUamFlRWQvUURDemRudTZpM2EvaFBaU3VNZmNjcjNvVXE2OVlrQ0hzU3h2eVF2empkbHhRPT0YACAAKAAw+t/z59KG6gI4rL+oxOgsQKy/qMToLEocc2FQN0pWVTYzeWxBTHBRNTQrOUVvTklSd2hZPVofIh30a3JHUzdLYWRaRkV0VWxUMWM0T3ppWkNtQVMwPRKoAggQEqMCChxJWHIwblQwSTFuM3QxVWRnUkRwTG00ek1TN3c9EqYBWjpBRHF0QVp5NHNLazZ6MXR3aUNlUEt2SzlVUDEzOUFNNHd3WFpyUytNamJzYXdtQkR0clJaSlN6bHNZL2ZidmRHcENzWGxvNWg0bWpVRStxbXZISFpwNFJYcFhML200UmxXY1ZDT3Q4MS80bGV6c0c4eWsrQlJHaXI5dmw4VjF1eGpoLzhTZUliME9ZUDk1RE95Z0szS1V1bjdoSEc2QmhEMlE9PRgAIAAoADDZgMr98YHqAjjH1ofBmi1Ax9aHwZotShxpb0duUlJMdk5KWENIZjJyUXNOd2trak5YK009Wh8iHfRjd3BORHpGbUREN3cwdXRESnRyVTNxSHoreVE9EqcCCCwSogIKHFVtcWpCOUNGQ2NBRmFTTWVydzdDVi9QbG5OST0SpgFaOkFEcXRBWnk0c0trNnoxdHdpQ2VQS3ZLOVVQMTNDQXV4akxXMFk0ZVZiM0ZIa1BYU0ZvUWEwYXlHczZ6S253L2xlNWg0NDJGS1FhcVVza2lQQlA4elNGakswZ3VVWXNVMzg1Vk1UelhYNXh3NnZZcnJRTVBReTZxSXFpT0R1Q01hSXVwMndheWhYM1ZQa0w1bFdUSDVpT0hRVjFvWU0yYXQvdz09GAAgACgAMN3c+e/Sw+oCONmSgojtK0DZkoKI7StKHEdZcmFLRTVsOUZDU0duOVpybEIvMG84ZXJJWT1aHiIcNzNXNWtuU3dvNFVoSVJaNFlyOGdUUG1VTUdBPRKoAgglEqMCChxaRjBSWTFwVWoxdG1reHZuRndPOVJXcFV5Wk09EqYBWjpBRHF0QVp5NHNLazZ6MXR3aUNlUEt2SzlVUDEzRTBmMUNQdEU2MHVzaW9PVGxSWmNqaXRrOXZBa3NUVDRBTWdBZEZwbEhyNi9ZeFRYanllbU5yazRrak1qbzloNFMwa1FWTEo5dHF3Qmlua0pXNDNhR2hzV1dSQjR0dGhWakE1c3pMaEVjWm5DRERQMS9QUGxIR1dIeGVKaEVzeE1RbFB2c0E9PRgAIAAoADDh5e/jjOHpAjjZ0OCGpy5A2dDghqcuShxDMmZmdC9adlNhUDBzenVwQkdYTmo5ZVBsSVk9Wh8iHeovM3ZISmUwSkZlMVNHQWNrdFhGbG0zeCtNVWc9EqgCCCQSowIKHENobWpsQy94K1NXU3Y2TVc5YnNCMEE0OVVwTT0SpgFaOkFEcXRBWnk0c0trNnoxdHdpQ2VQS3ZLOVVQMTNFMGYxQ1B0RTYwdXNpb09UbFJaY2pqSXlMWUdHQytlMjY3RVp2dWVaM0VuelVnYnZOYnB3WTE3YmVZaWFVK0JuRlhNdzZyelhUdEpTTFdTRkdOOXNESEV6b2thazdheHdTdGg3UEtyNkRJWWpvN1RQcUlvMm1uMzh2d3QvcTZBT2pVdVRnZz09GAAgACgAMJKcoOGM4ekCOMC04IanLkDAtOCGpy5KHDdpUnlrSHoycWkwMkJwa3hzZzZ1MloyR3lqWT1aHyId1Wx3M1M1V0NFYU9Ec3VnL0pod2FoM0x4ajQwOD0SsAIIIRKrAgocZW5TOGZ2MksrWXNRYXNnVkZTcmVob3UwQ2JzPRKmAVo6QURxdEFaeTRzS2s2ejF0d2lDZVBLdks5VVAxM0UwZjFDUHRFNjB1c2lvT1RsUlpjam13VUNFNVp1dUZFZzhFUWJEYnpKclNaVkRtYlJqb3AwYjVacm9UMEVVN2M1RERoTFZ0SjV1dHBoZDQ1MmJIYi80dERHM0ZSY29PYjAyR0ZGbGx5ZEFiWm1ySnFlZTlscFI3dThSak52OEdwUVVkTDhnPT0YACAAKAAw3IHX076u6QI4jf/GyaAuQI3/xsmgLkocZG9rcVZhOFgyOStiQXlJb3p2VUNGcGI4ME5VPVonIiX/////AAAABv1adjZac2lqbXM0TXp3WnFBZ1dCekJVQUFtYWM9EqcCCCISogIKHENMbjVvNUlNS04xN1JvV2k1ZWIyWjVBUWVSWT0SpgFaOkFEcXRBWnk0c0trNnoxdHdpQ2VQS3ZLOVVQMTNFMGYxQ1B0RTYwdXNpb09UbFJaY2pxMGsvUlJpL25tOEI2WFdhZUVBTzVBYk15NTd0YTV2ajlPZEVpM2puNjc4dW9uT2dvQ2VuRUMwZlZxSy96UnFCTnkwNFVoYVFQeDZaVVlRVFowUC94ZnFTYjF6MDFRK2RvempFNEdHODdoZG5LSWtWUT09GAAgACgAMN3m1PaW4OoCOIWKm9CgLkDApumoty5KHGpUTzBmU1Iya3QxYzNhd1doSWVuZ3Vkc0krST1aHiIcVGNGdkFKZnpGSGFRVjFoTDZlQ01TRElweU80PRKoAggjEqMCChw1dUsrRk0xSnFKNWdTK1hsTUhHZzNjczhURzg9EqYBWjpBRHF0QVp5NHNLazZ6MXR3aUNlUEt2SzlVUDEzRTBmMUNQdEU2MHVzaW9PVGxSWmNqdXNmZDAyeTFGTkF3TnBkaWVGMDFBNGl5YjZxaDhzYkk0dU5NNmRISit6cUlGbktiQVBtNkREY3MxM2FaTkkrZ1B2UXlxWDZ4dFc2OHA5aW9qdGxWQXNIZzFQbjdqbGJRMS8xTFNGN2JjdkJYWkN4WWc9PRgAIAAoADCSnKDhjOHpAjiq+peWoy5AqvqXlqMuShw3Y2hoc1czR3dSbXVjbHdwblFCZWdjVm1YZm89Wh8iHao1clJyL0NzeUV2ZHF6ZmRIZFZ3N3REREV4YjQ9EqgCCBwSowIKHEZiTE95ai9OVER1TncycDNwLzVBR3M1bTdSST0SpgFaOkFEcXRBWnk0c0trNnoxdHdpQ2VQS3ZLOVVQMTNFbld4QTNjblAwdmE2Tlhvc1dCKzhteDFPVUZxRnZ2dEpPZStWNnd0Y28rRFF2K0IyTzZRcG9obldaMzRyaUI1SHBhRFZSVXNrWTJ1ZHowZHpJZTFpdTloblcvclB0Z3NlY3NEbDd4S1cyVDZKRyt4VmgvNkR6cHVkU2JZMVM1c0RFZHBsZz09GAAgACgAMPrf8+fShuoCOJe+mMPRLUCXvpjD0S1KHHMyYWFvZGdRa3FuMlBBc0xXekNqSmI0S2RhOD1aHyId/VhlbWRCTEtLYkNCaXNiNmxqeStwcFN2SFJLTT0SqAIIHhKjAgocUTdqNWpPQ0xScWhQZzlKUlB0VndFSFpZTlJzPRKmAVo6QURxdEFaeTRzS2s2ejF0d2lDZVBLdks5VVAxM0VuV3hBM2NuUDB2YTZOWG9zV0IrOHVaR3h0dFNLK0FZSkVQQWUxWGRjdDBOd2JFTCtsK0pIOG1VTDBMRWJQMkd1R1BpUlFqTDIzSVlnWmxCN1IvckhONGFhNUdBbWZQNkdhM1VaWjgvQ0w5RkRPSXlPRWRJemVwS2RBUTJDNVFoenVzUUhRPT0YACAAKAAw+t/z59KG6gI46t/bx+MtQOrf28fjLUocL3IvLzIrSE91eithUWl2VVg2Rk94RVdTRDBzPVofIh3/UmVZZmhBeTZUVHlvVHZSRUx4UEFVR3Ixa2ZnPRKoAggdEqMCChx5UDNzSFpIUXRpUjNXNzJYVG1yTWxnbHh5SGc9EqYBWjpBRHF0QVp5NHNLazZ6MXR3aUNlUEt2SzlVUDEzRW5XeEEzY25QMHZhNk5Yb3NXQis4dkc0bkU3eDRjVTdjRHRKWk0vdWRJZG96dldzM1JmMXRRK2hKTEpUU3QxK09rbVM4c0l2TzV3MkNsOEtacWRhZUdjbldGRmdiZHNsdndyeDZZbUgvUGZpQy9PNUQ0dDFCZUVhTlFRc2ZRc2h3S0VDcmc9PRgAIAAoADD63/Pn0obqAji80d3X0y1AvNHd19MtShxEVHRsdjhpcldXMnpvYk90QXdZd29CdVJOM1U9Wh8iHf5MUDVyYjNMS242UkhpbGJLMW9rK016d05jOHM9EqgCCC4SowIKHHl5ZGN0QmdwTHBaclR2ZE5TVmhEMDRDZEV1Zz0SpgFaOkFEcXRBWnk0c0trNnoxdHdpQ2VQS3ZLOVVQMTNHR3NIZmdLM25TR25mWDVOWFRZT01ETWZEemVpdFRnWmladzBUckxCZCsxdGJDZmxhNm5WWjR0SFIwNlVWbDNURjJKbHEweUZpWDU4eFF4Z3VVUFhVVHljcHNYN0VtN1RKYVRBZExxYUZhNTZ2ZlNKWk5hQ3FLS1hvSFFGMkRXQzNWUWVXZz09GAAgACgAMN3c+e/Sw+oCON+XvMWLLkDfl7zFiy5KHGx2MVhTMGt0R2xIV0xjQVNzL1pwbm9iU3VXTT1aHyIdzXN3d0ZqRTdDR001WExNdFlkY3hBRHBSOGZ2Zz0SqAIILxKjAgocbWZZTUtKUEdIMy83MmpJS0psN1VqQVVNYmRrPRKmAVo6QURxdEFaeTRzS2s2ejF0d2lDZVBLdks5VVAxM0dHc0hmZ0szblNHbmZYNU5YVFlPTUkxNWdEMUdoMFE4UVc1U1A3OE02L2U5TExwaFBhOXk5d01LMitKaVJXekg3ZXZ2Ny9OYTkxYjA3MXlkd1hJVzZGM1hadVczZ0x2K2tuM2RENml5clM3dVFWcU5uTFowRTdNUE1ISWViOG56ek1JTzBRPT0YACAAKAAw3dz579LD6gI4ucavt5IuQLnGr7eSLkocb3EvVk1GUUFUV3hFMUxEd21kMEt4WTJkOFJFPVofIh3mT3daRHlJSlYwbEcrY052YjNrS09mcnRBdWtvPRKoAggtEqMCChxya1hpY0QrWTlIYlczKys1cHptK0ZySFVnYnc9EqYBWjpBRHF0QVp5NHNLazZ6MXR3aUNlUEt2SzlVUDEzR0dzSGZnSzNuU0duZlg1TlhUWU9NTWNxVUpRVkdQd242Y0ErWXl6QVhSL0E5ck1BZzBQcllGL3U1UHJLdVN0Rjh6d2IvSTh6QmVEUFpZOVBpNUlrWVNUNVMreWI4ZGtUL003RUk3SjFoSkpUNXY0WW9rRjlTb3Z1YnNpNlh2d3hYZU5PQ1E9PRgAIAAoADDd3Pnv0sPqAjiHnrXFiy5Ah561xYsuShxRb2RPdjdkNmMxQW1IbFk0cG1IMDdlSUpQeTQ9Wh8iHZsxb3JpWVYvVE1oK2I5dVlRQWlYM0lmSEJTVXc9EqgCCA8SowIKHERLSm5TQ1k2am1EMEV3K1pKOXQyWEhWeS9Jdz0SpgFaOkFEcXRBWnk0c0trNnoxdHdpQ2VQS3ZLOVVQMTNLNnRPQ1ZoemIxT01XSGNxT2tFR1YybHZ1ZVN2RWhWb2tCUmZVUEdMVTdtN3pvMFdWQ1ZmQWk0TDV2ZnVTdjVycGoyZ2pOL2xUNU14S3VaZVQyQmI3R1BUdmxMbi9FSG90akJvSElxYXVFbGc4djdEUThaUlNWcVlQaGpJa1lmWDlPT3Fadz09GAAgACgAMNmAyv3xgeoCOLC1ufXOLUCwtbn1zi1KHEZXeHBYREQ2L1ZwT1o0NEd3U0QrWnh3bC93RT1aHyId6TJmRkNVWDVvbGJqa3N3Q3lpNDgxdVRIRTdHND0SqAIIERKjAgocS2svUkZ1cGlWNkI5eHNyV1hmcTZ6NE1HR1RNPRKmAVo6QURxdEFaeTRzS2s2ejF0d2lDZVBLdks5VVAxM0s2dE9DVmh6YjFPTVdIY3FPa0VHVnpOcU5MZ0twTHRsZVYxTmg2SEJnQVE1NkRJYjBjWTFJUWNZK1JJNEFHYk5uK2Z5Y2lGSXlMVmRkOG9YMEhXSC9UQWN2Ykp6Ni9GVG4zc2F2ZGdqN1FLdldLNTBSaFpLOVdiMllpQWhPcWJNVElRdWJ3PT0YACAAKAAw2YDK/fGB6gI4wPStg90tQMD0rYPdLUocQkJaMDJ4bUNycWtnYThYNzRPcVE1M3d1RkRVPVofIh39NGJoRm45MlJpZER4bUlpRFNldWRPUzFJTWJNPRKpAggKEqQCChxFeURQWmphSm5IWEszMnhpQW1YSWxFNXNZUm89EqYBWjpBRHF0QVp5NHNLazZ6MXR3aUNlUEt2SzlVUDEzTzBSWndGZkRaRG0ySVlCeVllcS9WSkwzdVB0SXBHRHpidWZBMjlleDFhRmprMHJmN3hhU0JQcDN5MGY5OHRkVmdVbVYyTk82Z0JSeXArYXp5b1FjajQ3Yys0di96clpaSkNTUHFvYXZpL0lZMEZId0o4cVZTN2VybmpwNXBkakpNTlhjQVE9PRgAIAAoADCRysSNnOHpAjiP/ePtlixAj/3j7ZYsShxTc3phNUsxSVVKQjVIamlKVlBkVmNiSjRxUWs9WiAiHv/+T1hjZXFSNzVYUkhYYnJJVnE0Z2FzY2Jvd0tRPRKqAggVEqUCChxlTkJWSE16YWViRGhLUTlXOU5pMFZzNDFYRjg9EqYBWjpBRHF0QVp5NHNLazZ6MXR3aUNlUEt2SzlVUDEzUjdPNzNJTndhaWZEY1M4b0ZMVUZwKzNJS3VqUzNMUEJlS2JkOGdkZnMwZkI1eTd0WFJxcEk2MU5kRWorenE5c000QXJmMjd0OGlabzJTc0NUbWJSajh0K05sRHVBdkljVzd0YjRGMVhMSGtPMysvcWljanUvSW5oQnk0WGhEVXkyUmZ2K1E9PRgAIAAoADDZgMr98YHqAjiy7vHy7i1Asu7x8u4tShx5T2JwRCt4TTJ6bzVqa00ycy9EQ0d3N0czMms9WiEiH///71ZGNW5aZ2VYMzlwV2xHckNBZlNKRnBPN0paQT0SqgIIFBKlAgocNGNYb2pNalV5QnhZNkN5MHVNYkIxcm0rUUtzPRKmAVo6QURxdEFaeTRzS2s2ejF0d2lDZVBLdks5VVAxM1I3TzczSU53YWlmRGNTOG9GTFVGcDB3b3UxQlVYZCtLY1R0aXFiV1B0WmVxY2dEQ00vczVsN2RNblhmTk4rVXMxNFFQNTFzYncxTndtbnJpenI2YzhydXFaLy9nZm5VQ0E2enJHa0hJRURyYUpnUkFKazhIL3lNcS9XMFdjZmtnTmtGU1dnPT0YACAAKAAw2YDK/fGB6gI4pe7JouktQKXuyaLpLUoccVZoR3pCeXNvVVVKaldKSnliSU1oYU9XU3k4PVohIh///7w0VUZhTmVmUXVYc3pLUTh0QnR5U0VzS0lXdjQ9EqkCCBMSpAIKHG5HT1ZzUDdldUFrWHJ5T0ZqMzdWekJPSmJndz0SpgFaOkFEcXRBWnk0c0trNnoxdHdpQ2VQS3ZLOVVQMTNSN083M0lOd2FpZkRjUzhvRkxVRnB4T2tiZHl4a3BKd1h5M1g0dzdHOFdySlZTMms5SEEza1dDSDU0RnBMRW5ka3FKMjhPRml6U3VWUjVVM09MQ2dZRGVldHJrTk5ZZU40VkZIaERZQ1dMeDF0Z1M2NldYclU3WFJJU255eWYydmR4MHZBdz09GAAgACgAMNmAyv3xgeoCOKS2vvfoLUCktr736C1KHFRLSG9kRXRyOVUvbkt5MU5UcStZc3o5RjZ4Zz1aICIe//9JL3UzRmlNSXVrV0c2d01vNVpJbDN1ZHFRa009EqkCCBISpAIKHDUrL25XWTFnTHZhenAxaE1KTGQzZEpYbHFTYz0SpgFaOkFEcXRBWnk0c0trNnoxdHdpQ2VQS3ZLOVVQMTNSN083M0lOd2FpZkRjUzhvRkxVRnB4dWRMU1NoUENUSXV6V3dtUktyK3pwbWg0ZHNESmMzQVhCam9mN2lGRzI0aHF6ZmpvYUdOV2d4NG5FYzZvcXRsenpua09PMk5ORUNuTWhacGZ3T050SHlDc3E0QWN5NGJwcmdPQkgwcFRDUWF0WkdXUT09GAAgACgAMNmAyv3xgeoCOM+l46joLUDPpeOo6C1KHEdWMlhBQ081cHlPRktMcVRZN245cU55UHN4MD1aICIe//1EVFpOdjVkTFV2THNvU1B0ZEEyeTVLcEI1akk9EqcCCAwSogIKHFdJY1EydUtTSzJWcmVtZnIvYWUxWWVnaTdxVT0SpgFaOkFEcXRBWnk0c0trNnoxdHdpQ2VQS3ZLOVVQMTNSQmRuclNYRnNtT2VTQlBpbWlNbTdITy83dlpPTDFLZjBLQ2czVjRvSXVTNzYzVkhUcnlqNXJLSXZ6SFVCckpLTUJBK1pucXAxNDUzSjdrZlBweGMxVHFNY0JRYWRGZ1BFWmdQLzRjNUlSUDhOcE5XSmRJWlVVOTFEWVpyM1doVlBvVGRaUT09GAAgACgAMPrrjYDygeoCOPCgzbykKkDwoM28pCpKHEdnOStENzJTNTdhOXhKYktjMGZLYUJCT04zND1aHiIcTHpYYy9kZEVYMmg5ejdMcktFWnFNM2ZFY2p3PRKoAggZEqMCChxrSnBpOXFaTGI3RXZxNlVObEwraEliTUFHekU9EqYBWjpBRHF0QVp5NHNLazZ6MXR3aUNlUEt2SzlVUDEzbmFOLzdyRGRtbmIyeUVLYVhpdVQ5M1BsdVM1NGh3ZFJ5L0RjMGJuREdLTzRTSEs1VjBZODVtend3ZFk2NzNpVWVmKzRnaUNkM1ZNeFRYTjEwZXhVQmNxM2Vpci81QVdwRXc2U0pRVCtpblhQVDNFZGRBWHV0dUtjWXNTd210d0htdy9HaGc9PRgAIAAoADD63/Pn0obqAji+qPqmnSxAvqj6pp0sShxWVnZYNHhEWU93Q1d4T2VENHhmYnpZZlRsQWM9Wh8iHdNkM2JBRDlIOTNjNkNtUlJablE2M21FclprY1k9EqsCCBYSpgIKHHRrUk5BZENVYks5N050Ymw3ekJOdEM5ZnhURT0SpgFaOkFEcXRBWnk0c0trNnoxdHdpQ2VQS3ZLOVVQMTNvRzVsT2tpOGFxV2dsWllVN2VzSm9UT1VER3pPL2tJbmV5UGN5YXJjb3JoSU1LTUVPZ3MrcE9lWUVPbzhNTndlOS9sTkhOK1lNNlo2VFJDdFUvdXEzNFl6RWRuZmhMbWdHOVlZSmpVMDdaY2pXTXlzY2paMk8yVkRrNndDTjVtdFVvbVlJQT09GAAgAigCMLOt4JDk3+oCOMKQgpydK0Djhamity5KHDhZK1ZPOGhuTnEwZGg0bDZiZENRVEZEWm1Xbz1aIiIg/////WE5VkpqcWZYbFNCQmQ0bmVSNmFnNUplSDJuYz0SqAIIGhKjAgocQ3ZwNis5VXdLOTF2NmJqN1pBRldIamZWZ0VzPRKmAVo6QURxdEFaeTRzS2s2ejF0d2lDZVBLdks5VVAxM3BFeVZ4d3FPbUJWSS9PQlVRUlBJdzA0TTQrelhyckVzemY1L0NJN0hwNHBCR0J3UjgvZyt6UDJIbzBaaEFjWVdMNnNneU1MWEk3WlVLSmVkeHA3UHhUTzAzTk1ndVM4VG43a3Z2Y2dlY3ZXWVVnclVxNHhEc1p5dy85SlNlWmw1dHRpUXFBPT0YACAAKAAw+t/z59KG6gI4rfPIoZ4sQK3zyKGeLEocTStsVjdwditGYnRTYUdVQ1hPRVhKRWRRWWNvPVofIh3pa3E2Zk16TVVuNGkwbVV1RVI2a0xsUmk3Z0drPRKwAggXEqsCChxOaXc0bmhCQWc4cWUzQjUzMkRNdE83c3crbk09EqYBWjpBRHF0QVp5NHNLazZ6MXR3aUNlUEt2SzlVUDEzcEV5Vnh3cU9tQlZJL09CVVFSUEl3eEpPY2FnQ0xZZTZwNnhNMnY3d0JBOVAxT2psVlp1NlZaMU9ERi9OeXNTUWlTS0RibFZBSkV6RXQxRlpuNmJYcERzOU1KL2dkRjk1KzZtZ2hva2xtSWtlT0lLMWlvL09KL2hnVndheUhHV2xpd0YrbXc9PRgAIAAoADCr6eDGuczZAjjB1f6hnixAwdX+oZ4sShxFWHA3SzIremRGTmR6cHFlanJCZ1RPWDNFT0U9WiciJf////8AAAAE/XljMG1PcUFHRUo4OS9Xd2VVd1F0dWw2SDg5cz0SqAIIGBKjAgocbU1vMTBhbGlDTjBhTklMbFNicFQzTk56SkhBPRKmAVo6QURxdEFaeTRzS2s2ejF0d2lDZVBLdks5VVAxM3E5QkJBQ1ZvSmY0V1R5UHdNTTdRYW9zSFlUQWxGekVpZXAweVphUkJHWGkrMmZ5bU0yUzF3VWwyZ2l5SVI4L3hCWG9Wb094OHRJem15cDJ1RlF4bUpGcy9ldWNVS3QrbTlIOEZFZFV5OUN5bTV5cUNUZ0xPbGltdHZzTE5lMC9QK1pTUzZnPT0YACAAKAAw+t/z59KG6gI40Ke46JksQNCnuOiZLEocNGppY0MvWUF0blp6MmpvWXVIUzd1aUttbC9BPVofIh0YNVFVcWVvdGdyVlhGRkhUdGRQZ05OOWFkKy9zPRKwAggfEqsCChxBdUh0N1pCUGJad0JIT05ZZ1dYTXF0Qi8xQWc9EqYBWjpBRHF0QVp5NHNLazZ6MXR3aUNlUEt2SzlVUDEzeEhaWDZDUUVwc1FYU015bmhvUlhYVlBKUGpHZ3FiREJpYjRmYUtpV2hyUWliYzVmMjZqNi8xRlI2dmpqMEJVYzhDQ0kxSUFTbzdUTWlNV0tOWWhRNXBnOXdDa2RrOGE1Mjkwb2VTQkYweUVBSG9MWFJxMEhQZEI0T3pHeXpMZG83bDNEU3c9PRgAIAIoAjCzreCQ5N/qAjiF6tf2zS1A54WporcuShxzVUFQVnRpL1JaVjNIaUt1N05wdFhNMXF5RGc9WiciJf////8AAAAG9jV4Y05YM1FKdWhvRnkvL2VsMGN5TUs3N3hLZz0SqQIICxKkAgocaUg3R0hzQ050Rnlmdzk3dm9tQm1VaDk1a2Q4PRKmAVo6QURxdEFaeTRzS2s2ejF0d2lDZVBLdks5VVAxM3hIWlg2Q1FFcHNRWFNNeW5ob1JYWGRxWmpIUWZGQkNkUUt6WGJxdC83NStudmcwMmxmSFFCcmhBNngxWTUyYzlQdC9FVmNvM0tNTExhem5qdGUzeU4xRDVpN0Q0MVFrRlpwTU5BRWVheUMrajZXSyt0V0FkaCtKN1dZMm9MVllDbG1CYTNRPT0YACAAKAAwjpCEiZ315AI4yMfh2tctQMjH4drXLUocWVNBYTI5TVJaK21vS3hMQzE2OFpHUkpsY1ZjPVogIh7+eUkwbzl4SXNNTzkvcDczeHBuOER6NzM0VENCWT0SpgEIARKhAQocL0VLTGFVVXlNZGJLRWsxQmEyVWlueURuZjdJPRJOWjpBRHF0QVp6Q05EMTdLT2NUWWE5TnVmTWVJcThQVXFPa0JyTU55NzZEV0dVQlpvbWIyblJOT0t0V0tmZEtHbFp3UlNZTDErTmExd0EwGAAgACgAMLLsqI/k3+oCOABAAEocVStHR0l0WkVEcFpzSVNsT1VhSVR1SUxkTW5JPVoAEr4BCAMSuQEKHHk1V0UyN3VJNnZYL0RlSVNISnpuak1xdVdXcz0SZlo6QURxdEFaeng2ckZYRTltU0QrQyszYzhDLzJYNkN2L2hlMktIUi9PQ1JsRTlMSzJsSnRqM0cyZnllRU85aGFJeEtobEJ4VTg1ZzR2S2VoSGNKb3Vkb3NrSDlYOUNWRE5SRHc9PRgAIAAoADCy7KiP5N/qAjgAQABKHDc5bCtMUkVVcGlhRXZERCtHNDNjcFhTdHdCYz1aABgA",
+   "version": 1
+}

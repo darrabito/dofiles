@@ -1,0 +1,42 @@
+{
+   "background": {
+      "page": "bg/bg.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "assets/icons/browser/browseraction-off-19.png",
+         "38": "assets/icons/browser/browseraction-off-38.png"
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "notifications/pageView.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "GENERATED/commons.js", "GENERATED/site.js" ],
+      "matches": [ "*://*.amazon.com/*", "*://*.bestbuy.com/*", "*://*.homedepot.com/*", "*://*.target.com/*", "*://*.zappos.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "GENERATED/commons.js", "GENERATED/wikibuy.js" ],
+      "matches": [ "*://*.ivf-local.com/*", "*://*.ivf-dev.com/*", "*://*.ivf-stage.com/*", "*://*.wikibuy.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' https://www.googleadservices.com https://connect.facebook.net https://*.pusher.com https://*.segment.com https://*.mxpnl.com https://*.customer.io https://www.google-analytics.com; object-src 'self';",
+   "description": "Get coupon codes, loyalty rewards, and better offers from other sellers. By installing, you agree to the terms at wikibuy.com.",
+   "icons": {
+      "128": "assets/icons/icon128.png",
+      "16": "assets/icons/icon16.png",
+      "48": "assets/icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuGYggbuTpnT/i+GcuBoO1kO8i7t9s9jJwIgsnMZSZ7PXXN26wx7MVL7HfLkYvHaWTj/YSWRvZIf3ozFEOrT8W1Uk2AKd5AqvtH1iKTE8cf0nDSeE1H9i8hiWTb0+FBeBpF6pyRiCNx1MBjsRe1I/E+CPLnVhOpI86jSjRJUpxofNG4dUA5d42e7ZE3Y53eHQT/xmnDYW8qDQbRy4PRZklQ3x7dEfjfpWjCcReMnOQC02saESl9wTJj+qSu8BrglHjrl8gedAW2Sqvu3MzMiUbv6h8pG0IZBoUW0ei/43ghZEY1AgB8h5kzhjMqrQYwu0O/K81fqhGijtORoy8YvgYQIDAQAB",
+   "manifest_version": 2,
+   "name": "Wikibuy from Capital One",
+   "options_ui": {
+      "chrome_style": true,
+      "page": "options.html"
+   },
+   "permissions": [ "tabs", "contextMenus", "storage", "cookies", "webRequest", "webRequestBlocking", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.758.664",
+   "web_accessible_resources": [ "GENERATED/*", "webpage/*", "notifications/*" ]
+}

@@ -1,0 +1,20 @@
+import './monitors/installMonitor';
+import './monitors/updateMonitor';
+import './monitors/pageViewMonitor';
+import './monitors/activeMonitor';
+import './monitors/browserActionMonitor';
+import './monitors/afsrcMonitor';
+import './monitors/apiRequestMonitor';
+import './monitors/platformMonitor';
+import './monitors/airbnbMonitor';
+import './monitors/firefoxTrackingPref';
+import './logic/instant';
+import './logic/cashback';
+import './logic/offers';
+import './messaging/external';
+import './messaging/notifications';
+import './storage/settings';
+import './logic/account';
+import './logic/rpc';
+
+import './logic/checkCouponWork';

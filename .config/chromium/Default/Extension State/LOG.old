@@ -1,0 +1,15 @@
+2020/08/24-10:08:27.959 3a69 Reusing MANIFEST /home/dylan/.config/chromium/Default/Extension State/MANIFEST-000001
+2020/08/24-10:08:27.959 3a69 Recovering log #66
+2020/08/24-10:08:27.962 3a69 Reusing old log /home/dylan/.config/chromium/Default/Extension State/000066.log 
+2020/08/24-18:43:03.005 3e09 Level-0 table #70: started
+2020/08/24-18:43:03.084 3e09 Level-0 table #70: 2326330 bytes OK
+2020/08/24-18:43:03.123 3e09 Delete type=0 #66
+2020/08/24-18:43:03.123 3e09 Compacting 4@0 + 1@1 files
+2020/08/24-18:43:03.177 3e09 Generated table #71@0: 5 keys, 4997 bytes
+2020/08/24-18:43:03.177 3e09 Compacted 4@0 + 1@1 files => 4997 bytes
+2020/08/24-18:43:03.212 3e09 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/08/24-18:43:03.213 3e09 Delete type=2 #70
+2020/08/24-18:43:03.213 3e09 Delete type=2 #64
+2020/08/24-18:43:03.213 3e09 Delete type=2 #67
+2020/08/24-18:43:03.213 3e09 Delete type=2 #58
+2020/08/24-18:43:03.213 3e09 Delete type=2 #61

@@ -1,0 +1,5 @@
+2020/08/21-17:25:25.095 c79 Reusing MANIFEST /home/dylan/.config/chromium/Default/IndexedDB/https_hearthstone.gamepedia.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/21-17:25:42.465 9c7 Level-0 table #5: started
+2020/08/21-17:25:42.502 9c7 Level-0 table #5: 34520 bytes OK
+2020/08/21-17:25:42.571 9c7 Delete type=0 #3
+2020/08/21-17:25:42.571 9c7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

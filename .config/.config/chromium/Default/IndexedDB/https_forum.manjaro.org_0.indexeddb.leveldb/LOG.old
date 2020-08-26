@@ -1,0 +1,7 @@
+2020/07/24-23:26:30.753 1603 Reusing MANIFEST /home/dylan/.config/chromium/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/24-23:26:30.753 1603 Recovering log #3
+2020/07/24-23:26:30.754 1603 Reusing old log /home/dylan/.config/chromium/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/000003.log 
+2020/07/24-23:27:09.893 16f9 Level-0 table #5: started
+2020/07/24-23:27:09.974 16f9 Level-0 table #5: 109317 bytes OK
+2020/07/24-23:27:10.010 16f9 Delete type=0 #3
+2020/07/24-23:27:10.011 16f9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
